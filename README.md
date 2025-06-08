@@ -16,6 +16,5 @@ This repository contains a simple Java Maven project used to demonstrate Jenkins
 5. Ran the build and confirmed `BUILD SUCCESS` in console output.
 
 ## Add Screenshot
-Please add your Jenkins console output screenshot as `screenshot.png` here.
+![image](https://github.com/user-attachments/assets/df07fc4a-25a6-4a61-a8e2-0a63b4c138b0)
 
----
